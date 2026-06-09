@@ -5,11 +5,12 @@
 let nums = [1,3,4,2,2]
 // Output: 2
 var findDuplicate = function(nums) {   
-    nums.sort((a,b)=>a-b); 
-    for(i=0;i<nums.length;i++){
-        if(nums[i]==nums[i+1]){
-            return nums[i];
-        }       
+     let set = new Set;
+    for(let i=0;i<nums.length;i++){
+        if(set.has(nums[i])){
+            return nums[i]
+        }
+        set.add(nums[i])     
     }
-    return false
+    return -1
 };
