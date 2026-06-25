@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sapnaa-rawat/leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/sapnaa-rawat/leet-code/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/sapnaa-rawat/leet-code/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/sapnaa-rawat/leet-code/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sapnaa-rawat/leet-code/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
