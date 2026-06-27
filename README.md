@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sapnaa-rawat/leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0179-largest-number](https://github.com/sapnaa-rawat/leet-code/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sapnaa-rawat/leet-code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/sapnaa-rawat/leet-code/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/sapnaa-rawat/leet-code/tree/master/0283-move-zeroes) |
@@ -37,10 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/sapnaa-rawat/leet-code/tree/master/0125-valid-palindrome) |
+| [0179-largest-number](https://github.com/sapnaa-rawat/leet-code/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/sapnaa-rawat/leet-code/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/sapnaa-rawat/leet-code/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sapnaa-rawat/leet-code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/sapnaa-rawat/leet-code/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
@@ -59,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sapnaa-rawat/leet-code/tree/master/0009-palindrome-number) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/sapnaa-rawat/leet-code/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
