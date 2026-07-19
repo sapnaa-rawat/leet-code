@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sapnaa-rawat/leet-code/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/sapnaa-rawat/leet-code/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sapnaa-rawat/leet-code/tree/master/0287-find-the-duplicate-number) |
+| [0680-valid-palindrome-ii](https://github.com/sapnaa-rawat/leet-code/tree/master/0680-valid-palindrome-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sapnaa-rawat/leet-code/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/sapnaa-rawat/leet-code/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/sapnaa-rawat/leet-code/tree/master/0242-valid-anagram) |
+| [0680-valid-palindrome-ii](https://github.com/sapnaa-rawat/leet-code/tree/master/0680-valid-palindrome-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -66,4 +68,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/sapnaa-rawat/leet-code/tree/master/0179-largest-number) |
+| [0680-valid-palindrome-ii](https://github.com/sapnaa-rawat/leet-code/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
