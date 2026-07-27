@@ -15,24 +15,17 @@
 //     }else
 //     return false
 var isAnagram = function(s, t) {  
-    if(s.length!=t.length){
-        return false;
-    }
-    let seen = new Map();
-    for(let char of s){
-        if(seen.has(char)){
-            seen.set(char,seen.get(char)+1)
-        }else
-        seen.set(char,1)
-    }
-    for(let char of t){
-        if(!seen.has(char)){
-            return false
+    if (s.length !== t.length) return false;
+        const freq = new Map();
+        for (const char of s) {
+            //freq increases
+            freq.set(char, (freq.get(char) || 0) + 1)
         }
-        seen.set(char,seen.get(char)-1)
-        if(seen.get(char)<0){
-            return false;
+
+        for (const char of t) {
+            if (!freq.has(char) || freq.get(char) === 0) return false;
+            //freq decreases
+            freq.set(char, freq.get(char) - 1);
         }
-    }
-    return true
+        return true;
 }
