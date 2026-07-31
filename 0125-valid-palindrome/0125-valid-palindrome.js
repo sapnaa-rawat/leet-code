@@ -20,3 +20,16 @@ var isPalindrome = function(s) {
     return check(clean);
 };
 
+// var isPalindrome = function(s) {
+//     let l = 0;
+//     let r = s.length-1;
+//     while(l<r){
+//         if(l!=r){
+//             return false;
+//         }
+//         l++
+//         r--
+//     }
+
+// };
+
